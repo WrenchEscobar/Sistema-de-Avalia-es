@@ -1,0 +1,5 @@
+Seguinte rapaseada
+Quando forem fazer os arquivos, tem que colocar isso:
+<?php
+session_start();
+?>
